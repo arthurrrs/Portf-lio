@@ -92,7 +92,7 @@ section {
 
 .project-container.reverse {
     flex-direction: row-reverse;
-}
+    }
 
 .project-text {
     max-width: 600px;
@@ -149,7 +149,7 @@ footer {
 }
 
 .knowledge-text {
-    max-width: 600px;
+    max-width: 6600px;
     padding: 0 1rem;
 }
 
