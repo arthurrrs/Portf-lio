@@ -24,7 +24,7 @@ nav ul {
 
 nav ul li {
     margin: 0 1rem;
-    
+
 }
 
 nav ul li a {
@@ -92,7 +92,7 @@ section {
 
 .project-container.reverse {
     flex-direction: row-reverse;
-    }
+}
 
 .project-text {
     max-width: 600px;
@@ -132,7 +132,7 @@ footer {
 
 .project-img {
     width: 300px;
-    height: auto; 
+    height: auto;
 }
 
 .knowledge-container {
@@ -159,7 +159,7 @@ footer {
     height: auto;
 }
 
-.botao{
+.botao {
     background-color: #000000;
     border: none;
     color: #fff;
@@ -173,11 +173,10 @@ footer {
     border-radius: 8px;
     transition: transform 0.5s ease;
     justify-content: center;
-    
+
 }
-.botao:hover{
+
+.botao:hover {
     transform: rotate(360deg);
-    
+
 }
-
-
